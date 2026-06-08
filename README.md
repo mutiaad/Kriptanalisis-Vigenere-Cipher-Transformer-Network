@@ -3,7 +3,7 @@
 Projek ini merupakan penelitian skripsi yang bertujuan untuk melakukan dekripsi otomatis (kriptanalisis) pada pesan yang dienkripsi menggunakan algoritma klasik **Vigenere Cipher** tanpa mengetahui kunci enkripsinya (_Ciphertext-only attack_), melainkan dengan memanfaatkan pemodelan Deep Learning menggunakan arsitektur **Transformer**.
 
 ## Hasil
-Setelah melalui beberapa skenario pengujian dan pelatihan arsitektur yang bervariasi (penambahan atau pengurangan jumlah _attention heads_ dan layer), model Transformer terbaik berhasil mencapai tingkat akurasi sebesar **75% - 80%** dalam menebak plainteks dengan tepat berdasarkan cipherteks yang diberikan.
+Setelah melalui beberapa skenario pengujian dan pelatihan arsitektur yang bervariasi (penambahan atau pengurangan jumlah _attention heads_ dan layer), model Transformer terbaik berhasil mencapai tingkat akurasi sebesar **75% - 81%** dalam menebak plainteks dengan tepat berdasarkan cipherteks yang diberikan.
 
 ## Teknologi & Library yang Digunakan
 * **Bahasa Pemrograman:** Python
